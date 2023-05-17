@@ -1,8 +1,8 @@
 {
   "music": {
-    "id": "m",
+    "id": "music",
     "turn": true,
-    "music": [
+    "music_list": [
       {
         "id": 1,
         "playlistName": "Song Song",
@@ -16,9 +16,9 @@
     ]
   },
   "findPath": {
-    "id": "fP",
+    "id": "findPath",
     "turn": true,
-    "destination": [
+    "destination_list": [
       {
         "id": 1,
         "nickname": "School",
