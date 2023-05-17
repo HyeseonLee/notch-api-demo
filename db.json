@@ -1,42 +1,38 @@
 [
-	{
-		id: "music"
-		turn : true/false // json에서 id 값 
-		music: 
-			{	
-				[
-					id: 1
-					playlistName : "쏠노래"
-					link: "https://music.youtube.com/watch?list=PLH8TSjQ0awVLrzp7rPbUJFiClVWUILNkO&feature=share"
-				],
-				[
-					id: 2
-					playlistName : "잔나비"
-					link: "https://music.youtube.com/playlist?list=OLAK5uy_kO30VfEcwad3wI-HGwM8nt_xLFfNeY9N0&feature=share"
-				],
-			}	
-	},
-	{
-		id: "findPath"
-		turn : true/false
-		destination: 
-			{	
-				[
-					id: 1
-					nickname : "학교"
-					name: "한대입구역 4호선"
-					altitude: 37.334611//도착지 위도 
-					longitude : 126.832378 //도착지 경도
-				],
-				[
-					id: 2
-					nickname : "집"
-					name: "우월하이츠"
-					altitude: 37.481019//도착지 위도 
-					longitude : 126.951969 //도착지 경도
-				],
-			}	
-	},
-	
-	                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+  {
+    "id": "music",
+    "turn": true,
+    "music": [
+      {
+        "id": 1,
+        "playlistName": "쏠노래",
+        "link": "https://music.youtube.com/watch?list=PLH8TSjQ0awVLrzp7rPbUJFiClVWUILNkO&feature=share"
+      },
+      {
+        "id": 2,
+        "playlistName": "Jannabi",
+        "link": "https://music.youtube.com/playlist?list=OLAK5uy_kO30VfEcwad3wI-HGwM8nt_xLFfNeY9N0&feature=share"
+      }
+    ]
+  },
+  {
+    "id": "findPath",
+    "turn": true,
+    "destination": [
+      {
+        "id": 1,
+        "nickname": "학교",
+        "name": "한대앞역 4호선",
+        "altitude": 37.334611,
+        "longitude": 126.832378
+      },
+      {
+        "id": 2,
+        "nickname": "집",
+        "name": "서울시 관악구 인헌동 인헌길 122",
+        "altitude": 37.481019,
+        "longitude": 126.951969
+      }
+    ]
+  }
 ]
