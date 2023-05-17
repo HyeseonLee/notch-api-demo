@@ -1,6 +1,6 @@
-[
-  {
-    "id": "music",
+{
+  "music": {
+    "id": "m",
     "turn": true,
     "music": [
       {
@@ -15,8 +15,8 @@
       }
     ]
   },
-  {
-    "id": "findPath",
+  "findPath": {
+    "id": "fP",
     "turn": true,
     "destination": [
       {
@@ -35,4 +35,4 @@
       }
     ]
   }
-]
+}
