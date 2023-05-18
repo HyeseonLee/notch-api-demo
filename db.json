@@ -13,6 +13,7 @@
       "turn": 1
     }
   },
+
   "lets-go": {
     "music": {
       "turn": 1,
@@ -85,5 +86,5 @@
       "turn": 1,
       "link": "https://youtu.be/SVmjYoZlj6I"
     }
-  },
+  }
 }
