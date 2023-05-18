@@ -98,6 +98,7 @@
   "white-noise": {
     "whiteNoise": {
       "turn": 1,
+      "names" : ["모닥불타다다닥","파도소리"],
       "whiteNoise_list": [
         {
           "id": 1,
