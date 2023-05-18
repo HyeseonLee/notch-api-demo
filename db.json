@@ -17,32 +17,29 @@
   "lets-go": {
     "music": {
       "turn": 1,
+      "music_names" : ["Soul Song","Jannabi","Wikid","Jannabi"]
       "music_list": [
         {
           "id": 1,
-          "playlistName": "Soul Song",
+          "name": "Soul Song",
           "link": "https://music.youtube.com/watch?list=PLH8TSjQ0awVLrzp7rPbUJFiClVWUILNkO&feature=share"
         },
         {
           "id": 2,
-          "playlistName": "Jannabi",
+          "name": "Jannabi",
           "link": "https://music.youtube.com/watch?list=OLAK5uy_kO30VfEcwad3wI-HGwM8nt_xLFfNeY9N0&feature=share"
         },
         {
           "id": 3,
-          "playlistName": "Wikid",
+          "name": "Wikid",
           "link": "https://music.youtube.com/watch?list=OLAK5uy_mcBiwEJUMRopFXhAy02jIxgcHn-eBMcnU&feature=share"
         },
         {
           "id": 4,
-          "playlistName": "Jannabi",
+          "name": "Jannabi",
           "link": "https://music.youtube.com/watch?list=OLAK5uy_kO30VfEcwad3wI-HGwM8nt_xLFfNeY9N0&feature=share"
         },
-        {
-          "id": 5,
-          "playlistName": "",
-          "link": ""
-        }
+
       ]
     },
 
