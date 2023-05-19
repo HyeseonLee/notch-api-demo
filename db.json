@@ -50,7 +50,7 @@
           "id": 1,
           "name": "School",
           "address": "Han University Station Line 4",
-          "altitude": 37.334611,
+          "latitude": 37.334611,
           "longitude": 126.832378,
           "url" : "nmap://route/public?dlat=37.334611&dlng=126.832378&appname=notch.com"
         },
@@ -58,15 +58,15 @@
           "id": 2,
           "name": "Home",
           "address": "Suwol Heights",
-          "altitude": 37.4702002,
+          "latitude": 37.4702002,
           "longitude": 126.967820,
-          "url" : "nmap://route/public?dlat=37.481019&dlng=126.951969&appname=notch.com"
+          "url" : "nmap://route/public?dlat=37.4702002&dlng=126.967820&appname=notch.com"
         },
         {
           "id": 3,
           "name": "Home2",
           "address": "Suwol Heights",
-          "altitude": 37.481019,
+          "latitude": 37.481019,
           "longitude": 126.951969,
           "url" : "nmap://route/public?dlat=37.481019&dlng=126.951969&appname=notch.com"
         },
@@ -74,7 +74,7 @@
           "id": 4,
           "name": "Home3",
           "address": "Suwol Heights",
-          "altitude": 37.481019,
+          "latitude": 37.481019,
           "longitude": 126.951969,
           "url" : "nmap://route/public?dlat=37.481019&dlng=126.951969&appname=notch.com"
         },
@@ -82,7 +82,7 @@
           "id": 5,
           "name": "Home4",
           "address": "Suwol Heights",
-          "altitude": 37.481019,
+          "latitude": 37.481019,
           "longitude": 126.951969,
           "url" : "nmap://route/public?dlat=37.481019&dlng=126.951969&appname=notch.com"
         }
