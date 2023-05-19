@@ -58,8 +58,8 @@
           "id": 2,
           "name": "Home",
           "address": "Suwol Heights",
-          "altitude": 37.481019,
-          "longitude": 126.951969,
+          "altitude": 37.4702002,
+          "longitude": 126.967820,
           "url" : "nmap://route/public?dlat=37.481019&dlng=126.951969&appname=notch.com"
         },
         {
