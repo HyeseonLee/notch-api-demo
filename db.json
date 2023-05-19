@@ -44,7 +44,7 @@
 
     "findPath": {
       "turn": 1,
-      "names" : ["School","Home","Home2","Home3","Home4"],
+      "names" : ["School", "Home", "Home2", "Home3", "Home4"],
       "destination_list": [
         {
           "id": 1,
